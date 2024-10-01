@@ -1,0 +1,14 @@
+{
+  "name": "@studyplayground/core-modules",
+  "version": "0.0.1",
+  "description": "Core modules (github packages)",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "@studyplayground:registry": "https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "ISC"
+}
