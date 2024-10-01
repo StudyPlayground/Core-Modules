@@ -1,3 +1,7 @@
-export function Example() {
-  console.log("Example function is executed!");
+export default function defaultExample() {
+  console.log("export default example function");
+}
+
+export function example() {
+  console.log("export example function");
 }
