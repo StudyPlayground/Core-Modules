@@ -1,6 +1,7 @@
 {
   "name": "@studyplayground/core-modules",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "type": "module",
   "description": "Core modules (github packages)",
   "main": "index.js",
   "scripts": {
